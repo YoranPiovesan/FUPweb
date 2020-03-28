@@ -8497,11 +8497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\TrabalhoWeb\\FUPProejtos\\FUP_Projeto\\FUP_Projeto.csproj",
+      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\FUPweb\\FUP_Projeto\\FUP_Projeto.csproj",
       "projectName": "FUP_Projeto",
-      "projectPath": "C:\\Users\\Pichau\\Desktop\\TrabalhoWeb\\FUPProejtos\\FUP_Projeto\\FUP_Projeto.csproj",
+      "projectPath": "C:\\Users\\Pichau\\Desktop\\FUPweb\\FUP_Projeto\\FUP_Projeto.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\Desktop\\TrabalhoWeb\\FUPProejtos\\FUP_Projeto\\obj\\",
+      "outputPath": "C:\\Users\\Pichau\\Desktop\\FUPweb\\FUP_Projeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

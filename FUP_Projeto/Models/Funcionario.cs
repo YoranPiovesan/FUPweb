@@ -16,11 +16,11 @@ namespace FUP_Projeto.Models
         [Required(ErrorMessage = "Campo obrigatório")]
         public string Cargo { get; set; }
 
-        [StringLength(60, MinimumLength = 3)]
+        [StringLength(60, MinimumLength = 3) ]
         [Required(ErrorMessage = "Campo obrigatório")]
         public string Chefe { get; set; }
         public string Telefone { get; set; }
-        [StringLength(11, MinimumLength = 11)]
+        [StringLength(11, MinimumLength = 11, ErrorMessage ="Mínimo 11 caracteres")]
         [Required(ErrorMessage = "Campo obrigatório")]
         public string CPF { get; set; }
         [Required(ErrorMessage = "Campo obrigatório")]
